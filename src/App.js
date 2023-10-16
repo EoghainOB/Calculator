@@ -27,8 +27,6 @@ function App() {
   const handleEquals = () => {
     let result = eval(sum);
     setSum(result.toString());
-    // let result = Function("return " + sum)();
-    // setSum(result);
   };
 
   return (
