@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Exo:wght@300;500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Exo:wght@300;500&display=swap");
 
 .App {
   display: flex;
@@ -9,7 +9,7 @@
 }
 
 h1 {
-  font-family: 'Exo', sans-serif;
+  font-family: "Exo", sans-serif;
   color: rgb(0, 0, 0);
   font-size: 2em;
   font-weight: 700;
@@ -36,12 +36,12 @@ footer {
 button {
   width: 60px;
   height: 60px;
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: "IBM Plex Mono", monospace;
   font-size: x-large;
   border-radius: 10px;
   border: 0px;
   margin: 4px;
-  border-bottom: solid 1px rgb(155, 155, 155);
+  border-bottom: solid 2px rgb(0 0 0 / 40%);
 }
 
 .display {
@@ -50,8 +50,8 @@ button {
   text-overflow: ellipsis;
   margin-top: 10px;
   background-color: rgb(208, 244, 196);
-  box-shadow: inset 1px 4px 5px -4px rgba(0,0,0,0.75);
-  font-family: 'IBM Plex Mono', monospace;
+  box-shadow: inset 1px 4px 5px -4px rgba(0, 0, 0, 0.75);
+  font-family: "IBM Plex Mono", monospace;
   font-size: xx-large;
   padding: 10px;
   height: 45px;
