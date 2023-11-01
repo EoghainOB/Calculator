@@ -2,7 +2,7 @@
 
 Made in React, this application performs all the functions of a basic calculator. The user clicks the buttons to set the inputs. I wanted it to look as much like an actual calculator app as possible.
 
-<img width="700" alt="calculator" src="https://user-images.githubusercontent.com/110406695/211786387-da91c925-d7f7-4e5e-9062-daf84918962a.png">
+![calculator](https://github.com/EoghainOB/Calculator/assets/110406695/74b15bd4-c092-4407-8912-045c33bcb532)
 
 <i>This project is made using: </i>
 
